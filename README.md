@@ -1,4 +1,4 @@
-Tried our ReactJs for the first time. This is a simple Todo list created using react.
+Tried out ReactJs for the first time. This is a simple Todo list created using react.
 
 # Getting Started with Create React App
 
